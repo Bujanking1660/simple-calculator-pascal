@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\syntax\_pascal\KalkulatorSederhana\KalkulatorSederhana.dp
+Name=KalkulatorSederhana
+MainUnit=C:\syntax\_pascal\KalkulatorSederhana\Kalkulator_Sederhana.pas
+UnitCount=1
+ResFiles=C:\syntax\_pascal\KalkulatorSederhana\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\syntax\_pascal\KalkulatorSederhana\Kalkulator_Sederhana.pas
+FileTime=1500724473
